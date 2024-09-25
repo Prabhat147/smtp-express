@@ -1,0 +1,11 @@
+C:\Users\prabhat\Desktop\C# projects\Medicare Express\Medicare Express\obj\Debug\Medicare Express.csproj.AssemblyReference.cache
+C:\Users\prabhat\Desktop\C# projects\Medicare Express\Medicare Express\obj\Debug\Medicare Express.csproj.SuggestedBindingRedirects.cache
+C:\Users\prabhat\Desktop\C# projects\Medicare Express\Medicare Express\obj\Debug\Medicare_Express.Properties.Resources.resources
+C:\Users\prabhat\Desktop\C# projects\Medicare Express\Medicare Express\obj\Debug\Medicare Express.csproj.GenerateResource.cache
+C:\Users\prabhat\Desktop\C# projects\Medicare Express\Medicare Express\obj\Debug\Medicare Express.csproj.CoreCompileInputs.cache
+C:\Users\prabhat\Desktop\C# projects\Medicare Express\Medicare Express\bin\Debug\Medicare Express.exe.config
+C:\Users\prabhat\Desktop\C# projects\Medicare Express\Medicare Express\bin\Debug\Medicare Express.exe
+C:\Users\prabhat\Desktop\C# projects\Medicare Express\Medicare Express\bin\Debug\Medicare Express.pdb
+C:\Users\prabhat\Desktop\C# projects\Medicare Express\Medicare Express\obj\Debug\Medicare Express.exe
+C:\Users\prabhat\Desktop\C# projects\Medicare Express\Medicare Express\obj\Debug\Medicare Express.pdb
+C:\Users\prabhat\Desktop\C# projects\Medicare Express\Medicare Express\obj\Debug\Medicare_Express.express.resources
