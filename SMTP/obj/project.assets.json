@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\prabhat\\Desktop\\C# projects\\SMTP\\SMTP\\SMTP.vbproj",
+      "projectUniqueName": "C:\\Users\\prabhat\\Desktop\\smtp-express\\SMTP\\SMTP.vbproj",
       "projectName": "SMTP",
-      "projectPath": "C:\\Users\\prabhat\\Desktop\\C# projects\\SMTP\\SMTP\\SMTP.vbproj",
+      "projectPath": "C:\\Users\\prabhat\\Desktop\\smtp-express\\SMTP\\SMTP.vbproj",
       "packagesPath": "C:\\Users\\prabhat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\prabhat\\Desktop\\C# projects\\SMTP\\SMTP\\obj\\",
+      "outputPath": "C:\\Users\\prabhat\\Desktop\\smtp-express\\SMTP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
