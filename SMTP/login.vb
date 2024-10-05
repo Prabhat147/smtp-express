@@ -27,5 +27,13 @@ Public Class login
         End If
     End Sub
 
+    Private Sub checkShowPassword_CheckedChanged(sender As Object, e As EventArgs) Handles checkShowPassword.CheckedChanged
 
+        If (checkShowPassword.Checked) = False Then
+            txtPassword.PasswordChar = "*"
+
+        Else
+            txtPassword.PasswordChar = ""
+        End If
+    End Sub
 End Class

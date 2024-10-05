@@ -27,6 +27,7 @@ Partial Class login
         txtLogin = New TextBox()
         txtPassword = New TextBox()
         btnlogin = New Button()
+        checkShowPassword = New CheckBox()
         SuspendLayout()
         ' 
         ' lblLogin
@@ -58,23 +59,35 @@ Partial Class login
         ' 
         txtPassword.Location = New Point(207, 117)
         txtPassword.Name = "txtPassword"
+        txtPassword.PasswordChar = "*"c
         txtPassword.Size = New Size(248, 35)
         txtPassword.TabIndex = 2
         ' 
         ' btnlogin
         ' 
-        btnlogin.Location = New Point(243, 185)
+        btnlogin.Location = New Point(207, 242)
         btnlogin.Name = "btnlogin"
         btnlogin.Size = New Size(179, 39)
         btnlogin.TabIndex = 3
         btnlogin.Text = "Log In"
         btnlogin.UseVisualStyleBackColor = True
         ' 
+        ' checkShowPassword
+        ' 
+        checkShowPassword.AutoSize = True
+        checkShowPassword.Location = New Point(207, 158)
+        checkShowPassword.Name = "checkShowPassword"
+        checkShowPassword.Size = New Size(182, 34)
+        checkShowPassword.TabIndex = 4
+        checkShowPassword.Text = "Show password"
+        checkShowPassword.UseVisualStyleBackColor = True
+        ' 
         ' login
         ' 
         AutoScaleDimensions = New SizeF(12F, 30F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(576, 236)
+        ClientSize = New Size(576, 336)
+        Controls.Add(checkShowPassword)
         Controls.Add(btnlogin)
         Controls.Add(txtPassword)
         Controls.Add(txtLogin)
@@ -92,4 +105,5 @@ Partial Class login
     Friend WithEvents txtLogin As TextBox
     Friend WithEvents txtPassword As TextBox
     Friend WithEvents btnlogin As Button
+    Friend WithEvents checkShowPassword As CheckBox
 End Class
