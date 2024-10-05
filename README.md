@@ -19,4 +19,4 @@ Steps to follow to send the mails
 
 ## About Project
 
-This project is based on C# programming language and is using gmail smtp server to freely send the mails to the
+This project is based on VB.net programming language and is using gmail smtp server to freely send the mails to the
